@@ -1,15 +1,3 @@
-/**********************************************************************
-* Copyright (C) 2015-2020
-*
-* NodeName: collision_detect
-* FileName: main.cpp
-*
-* Description: 
-    
-*
-* History:
-* guohui zhang         2020/08/24    1.0.0    build this module.
-************************************************************************/
 #include "collision_detect.h"
 #include "ros/ros.h"
 #include "std_msgs/String.h"

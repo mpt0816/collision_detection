@@ -1,15 +1,3 @@
-/**********************************************************************
-* Copyright (C) 2015-2020
-*
-* NodeName: planning
-* FileName: main.cpp
-*
-* Description: 
-    
-*
-* History:
-* guohui zhang         2020/08/24    1.0.0    build this module.
-************************************************************************/
 #include "collision_detect.h"
 #include <cstdlib>
 #include <collision_methods/gjk_check/gjk_check.h>
